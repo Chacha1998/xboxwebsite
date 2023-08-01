@@ -1,0 +1,32 @@
+.xbox-logo {
+width: 100px;
+}
+
+h1 {
+    font-size: 1em;
+    margin-top: .5em;
+    color: white;
+    background-color: #0e7a0d;
+    width: 100%;
+    text-align: center;
+    border: 3em, 3em, 3em, 3em;
+}
+h2 {
+    height: 1em;
+    width: 1em;
+    font-size: 2em;
+    text-align: center;
+}
+
+
+p {
+    font-size: 15%;
+}
+
+body {
+    background-image: url("background.jpeg");
+}
+
+ul {
+    color: white;
+}
